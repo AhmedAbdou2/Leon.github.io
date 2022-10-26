@@ -1,6 +1,6 @@
 ﻿:root {
     --main-color: #10cab7;
-    --secondary-color:#2c4755;
+    --secondary-color:#2c4756;
     --section-padding: 60px;
     --section-background: #f6f6f6;
     --fake-image-color: #ebe3e3;
@@ -354,7 +354,7 @@ display: none;
 }
 
 .about-content .text {
-    flex-basis: calc(100% - 500px);
+    flex-basis: calc(100% - 501px);
     margin-top: 60px;
     background-color: white;
 }
