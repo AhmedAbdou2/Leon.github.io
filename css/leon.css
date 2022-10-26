@@ -354,7 +354,7 @@ display: none;
 }
 
 .about-content .text {
-    flex-basis: calc(100% - 500px);
+    flex-basis: calc(100% - 501px);
     margin-top: 60px;
     background-color: white;
 }
